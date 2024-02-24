@@ -1,0 +1,7 @@
+progress::-webkit-progress-bar {
+    background-color: #151515;
+}
+progress::-webkit-progress-value {
+    border-bottom-left-radius: 10px;
+    background-color: red;
+}
